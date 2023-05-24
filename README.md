@@ -37,7 +37,7 @@ Contributing:
 Please feel free to submit pull requests or issues for any bugs you may encounter or improvements you think could be made.
 
 License:
-This project is licensed under [SERTİFİCATE AREA].
+This project is licensed under https://github.com/EngincanCicek/LeetCode-HackerRank-Solutions/blob/main/LICENSE.
 
 Contact:
 For further inquiries, please contact me through my LinkedIn or via email at engincancicektr@gmail.com
