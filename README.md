@@ -14,6 +14,9 @@ Here's a brief description of the problems that have been solved in this reposit
 
 - TwoSum.kt: A well-known problem that returns indices of the two numbers such that they add up to a target number.
 
+- The_K_Weakest_Rows_in_a_Matrix.kt: This code is used to find the indices of the K weakest rows in a matrix. It counts the number of soldiers in each row and identifies the indices of the weakest rows.
+
+
 Each file is a self-contained solution to the respective problem and can be run independently.
 
 ## How to Use:
