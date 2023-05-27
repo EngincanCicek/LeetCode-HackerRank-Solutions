@@ -18,6 +18,8 @@ Here's a brief description of the problems that have been solved in this reposit
 
 - Middle_of_the_LinkedList.java: This code in Java determines the middle node of a singly-linked list by first counting the total number of nodes, and then traversing half the list's length to find the middle node.
 
+- Permute.kt: This solution generates all possible permutations of a given integer array by iteratively inserting each number into every position of existing permutations.
+
 
 Each file is a self-contained solution to the respective problem and can be run independently.
 
