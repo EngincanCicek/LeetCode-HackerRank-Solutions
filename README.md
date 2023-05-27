@@ -16,6 +16,8 @@ Here's a brief description of the problems that have been solved in this reposit
 
 - The_K_Weakest_Rows_in_a_Matrix.kt: This code is used to find the indices of the K weakest rows in a matrix. It counts the number of soldiers in each row and identifies the indices of the weakest rows.
 
+- Middle_of_the_LinkedList.java: This code in Java determines the middle node of a singly-linked list by first counting the total number of nodes, and then traversing half the list's length to find the middle node.
+
 
 Each file is a self-contained solution to the respective problem and can be run independently.
 
