@@ -1,6 +1,11 @@
 # LeetCode-HackerRank-Solutions
 This repository features my solutions to various mini projects from LeetCode and HackerRank. All solutions are coded in Kotlin, Java, Dart, and C#. This is an excellent resource for developers who are looking to enhance their problem-solving skills or who are interested in viewing alternate solutions to these popular problems.
 
+## Links:
+
+- LeetCode Profile: https://leetcode.com/engincancicek/
+
+
 ## Files Included:
 Here's a brief description of the problems that have been solved in this repository:
 
