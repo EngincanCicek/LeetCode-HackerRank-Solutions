@@ -21,3 +21,5 @@ Here's a brief description of the problems that have been solved in this file:
 - Middle_of_the_LinkedList.java: This code in Java determines the middle node of a singly-linked list by first counting the total number of nodes, and then traversing half the list's length to find the middle node.
 
 - Permute.kt: This solution generates all possible permutations of a given integer array by iteratively inserting each number into every position of existing permutations.
+
+- RemoveElement.cs: This algorithm takes an integer array and a specific value, removing all occurrences of that value in the array in-place. The function then returns the number of elements not equal to the given value, with the first "temp" elements of the array containing those non-matching values.
