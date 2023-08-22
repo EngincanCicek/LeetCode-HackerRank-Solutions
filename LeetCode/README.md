@@ -23,3 +23,6 @@ Here's a brief description of the problems that have been solved in this file:
 - Permute.kt: This solution generates all possible permutations of a given integer array by iteratively inserting each number into every position of existing permutations.
 
 - RemoveElement.cs: This algorithm takes an integer array and a specific value, removing all occurrences of that value in the array in-place. The function then returns the number of elements not equal to the given value, with the first "temp" elements of the array containing those non-matching values.
+
+- Palindrome_LinkedList.cs The solution finds the middle of the linked list, reverses the first half, and then checks if both halves are identical to determine if the list is a palindrome.
+
