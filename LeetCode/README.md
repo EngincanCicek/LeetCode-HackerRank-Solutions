@@ -26,3 +26,5 @@ Here's a brief description of the problems that have been solved in this file:
 
 - Palindrome_LinkedList.cs The solution finds the middle of the linked list, reverses the first half, and then checks if both halves are identical to determine if the list is a palindrome.
 
+-Ransom_Note.cs: Checks if a ransom note can be formed from a magazine string, returns true or false. Sorts both strings and then checks if the ransom note can be made from the magazine, returns true or false.
+
